@@ -1,0 +1,43 @@
+C:\Users\azhel\стол\institC#\matr\lab_03\Client\bin\Debug\net6.0\Client.exe
+C:\Users\azhel\стол\institC#\matr\lab_03\Client\bin\Debug\net6.0\Client.deps.json
+C:\Users\azhel\стол\institC#\matr\lab_03\Client\bin\Debug\net6.0\Client.runtimeconfig.json
+C:\Users\azhel\стол\institC#\matr\lab_03\Client\bin\Debug\net6.0\Client.dll
+C:\Users\azhel\стол\institC#\matr\lab_03\Client\bin\Debug\net6.0\Client.pdb
+C:\Users\azhel\стол\institC#\matr\lab_03\Client\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+C:\Users\azhel\стол\institC#\matr\lab_03\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azhel\стол\institC#\matr\lab_03\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+C:\Users\azhel\стол\institC#\matr\lab_03\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+C:\Users\azhel\стол\institC#\matr\lab_03\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\azhel\стол\institC#\matr\lab_03\Client\obj\Debug\net6.0\Client.dll
+C:\Users\azhel\стол\institC#\matr\lab_03\Client\obj\Debug\net6.0\refint\Client.dll
+C:\Users\azhel\стол\institC#\matr\lab_03\Client\obj\Debug\net6.0\Client.pdb
+C:\Users\azhel\стол\institC#\matr\lab_03\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
+C:\Users\azhel\стол\institC#\matr\lab_03\Client\obj\Debug\net6.0\ref\Client.dll
+C:\Users\azhel\OneDrive\Рабочий стол\matrenina_LAB\lab_03\Client\bin\Debug\net6.0\Client.exe
+C:\Users\azhel\OneDrive\Рабочий стол\matrenina_LAB\lab_03\Client\bin\Debug\net6.0\Client.deps.json
+C:\Users\azhel\OneDrive\Рабочий стол\matrenina_LAB\lab_03\Client\bin\Debug\net6.0\Client.runtimeconfig.json
+C:\Users\azhel\OneDrive\Рабочий стол\matrenina_LAB\lab_03\Client\bin\Debug\net6.0\Client.dll
+C:\Users\azhel\OneDrive\Рабочий стол\matrenina_LAB\lab_03\Client\bin\Debug\net6.0\Client.pdb
+C:\Users\azhel\OneDrive\Рабочий стол\matrenina_LAB\lab_03\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azhel\OneDrive\Рабочий стол\matrenina_LAB\lab_03\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+C:\Users\azhel\OneDrive\Рабочий стол\matrenina_LAB\lab_03\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+C:\Users\azhel\OneDrive\Рабочий стол\matrenina_LAB\lab_03\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\azhel\OneDrive\Рабочий стол\matrenina_LAB\lab_03\Client\obj\Debug\net6.0\Client.dll
+C:\Users\azhel\OneDrive\Рабочий стол\matrenina_LAB\lab_03\Client\obj\Debug\net6.0\refint\Client.dll
+C:\Users\azhel\OneDrive\Рабочий стол\matrenina_LAB\lab_03\Client\obj\Debug\net6.0\Client.pdb
+C:\Users\azhel\OneDrive\Рабочий стол\matrenina_LAB\lab_03\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
+C:\Users\azhel\OneDrive\Рабочий стол\matrenina_LAB\lab_03\Client\obj\Debug\net6.0\ref\Client.dll
+C:\Users\azhel\OneDrive\Рабочий стол\lab_03\Client\bin\Debug\net6.0\Client.exe
+C:\Users\azhel\OneDrive\Рабочий стол\lab_03\Client\bin\Debug\net6.0\Client.deps.json
+C:\Users\azhel\OneDrive\Рабочий стол\lab_03\Client\bin\Debug\net6.0\Client.runtimeconfig.json
+C:\Users\azhel\OneDrive\Рабочий стол\lab_03\Client\bin\Debug\net6.0\Client.dll
+C:\Users\azhel\OneDrive\Рабочий стол\lab_03\Client\bin\Debug\net6.0\Client.pdb
+C:\Users\azhel\OneDrive\Рабочий стол\lab_03\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azhel\OneDrive\Рабочий стол\lab_03\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+C:\Users\azhel\OneDrive\Рабочий стол\lab_03\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+C:\Users\azhel\OneDrive\Рабочий стол\lab_03\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\azhel\OneDrive\Рабочий стол\lab_03\Client\obj\Debug\net6.0\Client.dll
+C:\Users\azhel\OneDrive\Рабочий стол\lab_03\Client\obj\Debug\net6.0\refint\Client.dll
+C:\Users\azhel\OneDrive\Рабочий стол\lab_03\Client\obj\Debug\net6.0\Client.pdb
+C:\Users\azhel\OneDrive\Рабочий стол\lab_03\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
+C:\Users\azhel\OneDrive\Рабочий стол\lab_03\Client\obj\Debug\net6.0\ref\Client.dll
